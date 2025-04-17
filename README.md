@@ -11,7 +11,7 @@ Consists of 3 main components:
 
 - Implant: The client (malware) that runs on the target machine and communicates with the C2 server
 
-- Operator UI: Will likely use web interface for managing the server and agents
+- Operator UI: TUI to interact with the server and manage implants
 
 ## Core Features
 
